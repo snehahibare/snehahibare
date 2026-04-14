@@ -48,7 +48,7 @@ I am particularly interested in Computer Vision, Natural Language Processing, an
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snehahibare&show_icons=true&hide_border=true&theme=default)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snehahibare&show_icons=true)
 
 ---
 
