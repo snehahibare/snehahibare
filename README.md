@@ -1,16 +1,58 @@
-## Hi there 👋
+#  Sneha Hibare
 
-<!--
-**snehahibare/snehahibare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an aspiring AI/ML Engineer focused on building real-world intelligent systems using Machine Learning, Deep Learning, and Python.
 
-Here are some ideas to get you started:
+I am particularly interested in Computer Vision, Natural Language Processing, and applied Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- PyTorch / TensorFlow
+- OpenCV
+- Streamlit
+
+---
+
+## Featured Projects
+
+### ISL Translator (Indian Sign Language Recognition)
+- Developed a system to translate 261+ Indian Sign Language gestures into text and speech
+- Applied Computer Vision and Deep Learning techniques
+- Focused on accessibility and real-world impact
+
+### MedScan AI (Chest X-ray Disease Detection)
+- Built a deep learning model for detecting 14 chest diseases from X-ray images
+- Used CNN / DenseNet architecture
+- Implemented using PyTorch and OpenCV
+- Aimed at assisting early medical diagnosis
+
+### Intelligent Data Analyzer
+- Designed an AI-powered data analysis system
+- Automates data preprocessing, visualization, and insight generation
+- Helps in data-driven decision making
+
+---
+
+## Currently Learning
+- Large Language Models (LLMs)
+- Agentic AI systems
+- Advanced Deep Learning
+- Model Deployment using FastAPI and Streamlit
+
+---
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=snehahibare&show_icons=true&hide_border=true&theme=default)
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/sneha-hibare-832038358
+- Email: itshibaresneha@gmail.com
+- GitHub: https://github.com/snehahibare
