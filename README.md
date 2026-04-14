@@ -47,11 +47,6 @@ I am particularly interested in Computer Vision, Natural Language Processing, an
 
 ---
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snehahibare&show_icons=true)
-
----
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/sneha-hibare-832038358
 - Email: itshibaresneha@gmail.com
