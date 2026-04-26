@@ -42,7 +42,6 @@ I am particularly interested in Computer Vision, Natural Language Processing, an
 - Large Language Models (LLMs)
 - Agentic AI systems
 - Advanced Deep Learning
-- Model Deployment using FastAPI and Streamlit
 
 ---
 
