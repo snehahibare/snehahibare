@@ -1,4 +1,4 @@
-#  Sneha Hibare
+##  Sneha Hibare
 
 ## About Me
 I am an aspiring AI/ML Engineer focused on building real-world intelligent systems using Machine Learning, Deep Learning, and Python.
