@@ -1,51 +1,28 @@
-##  Sneha Hibare
+```text
+                                    OS: ............ Linux (btw)
+        ▄▄▄▄▄▄▄               Uptime: ......... AIML journey since 2023
+      ▄█▓▓▓▓▓▓▓█▄             Kernel: ......... B.Tech, aspiring AI/ML Engineer
+     █▓▓▓▓▓▓▓▓▓▓▓█            Focus: ........... Computer Vision, NLP, Applied AI
+     █▓▓  ◕   ◕ ▓▓█           Languages: ....... Python
+     █▓▓   ▽    ▓▓█           Frameworks: ....... PyTorch, TensorFlow, OpenCV, Streamlit
+      █▓▓▓▄▄▄▄▄▓▓█            Learning: ......... LLMs, Agentic AI, Advanced DL
+       ▀█▓▓▓▓▓▓▓█▀            Contact: .......... itshibaresneha@gmail.com
+         ▀▀▀▀▀▀▀
 
-## About Me
-I am an aspiring AI/ML Engineer focused on building real-world intelligent systems using Machine Learning, Deep Learning, and Python.
-I am particularly interested in Computer Vision, Natural Language Processing, and applied Artificial Intelligence.
+featured_projects:
+  → ISL Translator     — Indian Sign Language recognition, 261+ gestures
+                          translated to text/speech, CV + Deep Learning,
+                          built for accessibility
+  → MedScan AI         — chest X-ray disease detector, 14 conditions,
+                          CNN/DenseNet, PyTorch + OpenCV, early-diagnosis
+                          assist
+  → Intelligent Data   — AI-powered analyzer automating preprocessing,
+    Analyzer             visualization, and insight generation
 
----
+currently learning: Large Language Models · Agentic AI systems · Advanced DL
 
-## Skills
-- Python
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- PyTorch / TensorFlow
-- OpenCV
-- Streamlit
-
----
-
-## Featured Projects
-
-### ISL Translator (Indian Sign Language Recognition)
-- Developed a system to translate 261+ Indian Sign Language gestures into text and speech
-- Applied Computer Vision and Deep Learning techniques
-- Focused on accessibility and real-world impact
-
-### MedScan AI (Chest X-ray Disease Detection)
-- Built a deep learning model for detecting 14 chest diseases from X-ray images
-- Used CNN / DenseNet architecture
-- Implemented using PyTorch and OpenCV
-- Aimed at assisting early medical diagnosis
-
-### Intelligent Data Analyzer
-- Designed an AI-powered data analysis system
-- Automates data preprocessing, visualization, and insight generation
-- Helps in data-driven decision making
-
----
-
-## Currently Learning
-- Large Language Models (LLMs)
-- Agentic AI systems
-- Advanced Deep Learning
-
----
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/sneha-hibare-832038358
-- Email: itshibaresneha@gmail.com
-- GitHub: https://github.com/snehahibare
+find me:
+  linkedin  → linkedin.com/in/sneha-hibare-832038358
+  github    → github.com/snehahibare
+```
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehahibare&show_icons=true&theme=radical)
