@@ -11,11 +11,11 @@ document Q&A assistants and real-time computer vision applications.
 
 ## What I work with
 
-**Languages & Data:** Python, SQL, MySQL, MongoDB, SQLite
-**GenAI/RAG:** LangChain, LlamaIndex, ChromaDB, Hugging Face Transformers, LoRA/PEFT, LLM-as-judge, Red-teaming
-**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Keras, XGBoost
-**Computer Vision:** OpenCV, YOLO, CNN, MediaPipe, Transfer Learning
-**Infra:** FastAPI, Docker, MLflow, Streamlit
+- **Languages & Data:** Python, SQL, MySQL, MongoDB, SQLite
+- **GenAI/RAG:** LangChain, LlamaIndex, ChromaDB, Hugging Face Transformers, LoRA/PEFT, LLM-as-judge, Red-teaming
+- **ML/DL:** PyTorch, TensorFlow, Scikit-learn, Keras, XGBoost
+- **Computer Vision:** OpenCV, YOLO, CNN, MediaPipe, Transfer Learning
+- **Infra:** FastAPI, Docker, MLflow, Streamlit
 
 ## Featured Projects
 
