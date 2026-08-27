@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sneha Hibare</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Building+RAG+%26+LLM+Systems;Turning+Ideas+Into+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Building+RAG+%26+LLM+Systems;Turning+Ideas+Into+AI+Solutions" alt="Typing SVG" />
 </p>
 
 AI/ML Engineer Intern @ ILN Global Technologies | B.Tech AI/ML Student
