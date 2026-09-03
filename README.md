@@ -6,7 +6,7 @@
 
 AI/ML Engineer Intern @ ILN Global Technologies | B.Tech AI/ML Student
 
-I build GenAI and RAG-based systems — from LLM safety auditing tools to
+I build GenAI and RAG-based systems — from building LLM safety auditing tools to
 document Q&A assistants and real-time computer vision applications.
 
 ## What I work with
